@@ -1,0 +1,78 @@
+{
+  "_defaultLanguage": "ru",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "5cffbce136bab0456e80bdbe",
+  "_courseId": "5cffbcdf36bab0456e80bd1b",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": true
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "__v": 0,
+  "_inview": {
+    "_allowScrollOver": true
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "_devtools": {
+    "_isEnabled": false,
+    "_theme": "theme-dark"
+  },
+  "_altxapi": {
+    "_isEnabled": true,
+    "_courseID": "https://sberbank.ru/introduction-to-compliance/",
+    "_identifyById": true,
+    "_localLoggingOnly": false,
+    "_saveLoadState": false,
+    "_ignoreEvents": [],
+    "_launchMethod": "spoor",
+    "_endPoint": "https://lrs1.hr.sber.cloud/data/xAPI/",
+    "_userName": "2afb7e5e11792b99c041c5e55a411b88a1597287",
+    "_password": "0192e1b20f139ed4099911498f2973dd8aab381f",
+    "_mbox": "mailto:johndoe@example.com",
+    "_fullName": "John Doe",
+    "_homePage": "http://www.mylms.com"
+  }
+}

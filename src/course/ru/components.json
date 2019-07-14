@@ -1,0 +1,1157 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 2",
+    "displayTitle": "Вопрос 2",
+    "body": "<p>Положениям каких документов следует Банк в вопросах противодействия легализации (отмыванию) денежных средств, полученных преступным путем, и финансированию терроризма?</p>",
+    "_id": "5d27910af00b07034dc3bbd0",
+    "_parentId": "5d2790fdf00b07034dc3bbcf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": " Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "Нормативных документов Банка России",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Законодательных документов РФ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Внутренних документов Банка",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 1",
+    "displayTitle": "Вопрос 1",
+    "body": "<p>Легализация (отмывание) доходов, полученных преступным путем, это:</p>",
+    "_id": "5d278ff5f00b07034dc3bbce",
+    "_parentId": "5d278f97f00b07034dc3bbcc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Владение, пользование или распоряжение денежными средствами или иным имуществом, полученным в результате совершения преступления",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Придание правомерного вида владению, пользованию или распоряжению денежными средствами или иным имуществом, полученным в результате преступных действий",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Получение во владение, пользование или распоряжение денежных средств или иного имущества, полученного в результате совершения преступления",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 3",
+    "displayTitle": "Вопрос 3",
+    "body": "<p>Какие из перечисленных мер ответственности могут быть применены к сотрудникам Банка, в обязанности которых входит совершение действий в рамках ПОД/ФТ, в случае неисполнения требований законодательства в сфере ПОД/ФТ:</p>",
+    "_id": "5d2791baf00b07034dc3bbd2",
+    "_parentId": "5d2791a7f00b07034dc3bbd1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Административная ответственность",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Дисциплинарная ответственность",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Административная и дисциплинарная ответственность",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 4",
+    "displayTitle": "Вопрос 4",
+    "body": "<p>О чем запрещено информировать клиентов и иных лиц сотрудникам Банка?</p>",
+    "_id": "5d279213f00b07034dc3bbd4",
+    "_parentId": "5d279203f00b07034dc3bbd3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "О необходимости предоставления подтверждающих документов и пояснений по операциям",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "О проведении в отношении клиента и его операций проверок комплаенс",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "О включении клиента в СТОП-ЛИСТ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Об отказе клиенту в выполнении распоряжения или открытии счета",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Об ограничительных мерах в отношении клиентов-субъектов перечня лиц, причастных к экстремистской деятельности или терроризму",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "О направлении сведений об операциях в Росфинмониторинг",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "О процедурах и методах, направленных на исполнение требований ПОД/ФТ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 7,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 5",
+    "displayTitle": "Вопрос 5",
+    "body": "<p>О чем сотруднику Банка можно информировать клиента?</p>",
+    "_id": "5d2793b7f00b07034dc3bbd6",
+    "_parentId": "5d2793a7f00b07034dc3bbd5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "О включении клиента в СТОП-ЛИСТ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Об отказе клиенту в выполнении распоряжения или открытии счета по основаниям Закона 115-ФЗ и причинах отказа",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "О наличии подозрений в отмывании доходов или финансировании терроризма в отношении клиента и его операций",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 7",
+    "displayTitle": "Вопрос 7",
+    "body": "<p>Кто из перечисленных лиц, в соответствии с Законом 115-ФЗ, подлежит идентификации?&nbsp;</p>",
+    "_id": "5d2794fcf00b07034dc3bbda",
+    "_parentId": "5d2794edf00b07034dc3bbd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "Клиент",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Контрагент ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Бенефициарный владелец ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Представитель ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Выгодоприобретатель",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 6",
+    "displayTitle": "Вопрос 6",
+    "body": "<p>Идентификация – это:</p>",
+    "_id": "5d27942bf00b07034dc3bbd8",
+    "_parentId": "5d27941ef00b07034dc3bbd7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Совокупность мероприятий по установлению сведений о клиентах, их представителях, выгодоприобретателях, бенефициарных владельцах, по подтверждению достоверности этих сведений с использованием оригиналов документов и (или) надлежащим образом заверенных копий и (или) государственных и иных информационных систем",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Совокупность мероприятий по установлению сведений о клиентах, их представителях, выгодоприобретателях, бенефициарных владельцах",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Совокупность мероприятий по установлению сведений о клиентах, по подтверждению достоверности этих сведений с использованием оригиналов документов и (или) надлежащим образом заверенных копий",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 8",
+    "displayTitle": "Вопрос 8",
+    "body": "<p>Банк проводит процедуру идентификации клиента:</p>",
+    "_id": "5d279612f00b07034dc3bbdc",
+    "_parentId": "5d279603f00b07034dc3bbdb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "До приема на обслуживание",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Не позднее трех рабочих дней с даты приема на обслуживание",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Не позднее семи рабочих дней с даты приема на обслуживание",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 9",
+    "displayTitle": "Вопрос 9",
+    "body": "<p>В каком случае операция клиента подлежит обязательному контролю?</p>",
+    "_id": "5d27969ff00b07034dc3bbde",
+    "_parentId": "5d279692f00b07034dc3bbdd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Сумма и характер операции соответствуют виду операций, подлежащих обязательному контролю",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Операция на любую сумму, при условии, что характер операции соответствует видам операций, подлежащим обязательному контролю",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Сумма операции равна или превышает 600 000 рублей, либо ее эквивалент в иностранной валюте",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 10",
+    "displayTitle": "Вопрос 10",
+    "body": "<p>Какие из ниже перечисленных признаков операций наиболее характерны для сомнительных операций?</p>",
+    "_id": "5d279714f00b07034dc3bbe0",
+    "_parentId": "5d279700f00b07034dc3bbdf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "По счету клиента отсутствуют платежи по ведению хозяйственной деятельности и налоговые отчисления",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Операции не имеют явного экономического смыслы, не соответствуют характеру деятельности клиента",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Клиент имеет большое количество контрагентов и крупные обороты по счету",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Клиент присутствовал только при открытии счета, в дальнейшем обратная связь с клиентом осуществляется дистанционно (по ДБО, телефону, электронной почте)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 11",
+    "displayTitle": "Вопрос 11",
+    "body": "<p>К каким клиентам Банк применяет меры по замораживанию (блокированию) денежных средств или иного имущества?&nbsp;</p>",
+    "_id": "5d2798b3f00b07034dc3bbe2",
+    "_parentId": "5d2798a5f00b07034dc3bbe1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "Клиентам-фигурантам ПЭ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Клиентам-фигурантам СПТ ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Клиентам-фигурантам ОМУ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Клиентам, данные которых содержатся в массиве данных о лицах с негативной историей взаимоотношений с Банком (АС СТОП-ЛИСТ с кодом 4.05)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Клиентам с недействительными документами",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 12",
+    "displayTitle": "Вопрос 12",
+    "body": "<p>Банк вправе расторгнуть договор банковского счета (вклада) с клиентом по основаниям Закона 115-ФЗ, при наличии в течение календарного года:</p>",
+    "_id": "5d27995ef00b07034dc3bbe4",
+    "_parentId": "5d279950f00b07034dc3bbe3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "2х и более операций, признанных подозрительными",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "1ого решения об отказе в выполнении распоряжения клиента о совершении операции",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "2х и более решений об отказе в выполнении распоряжения клиента о совершении операции",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 13",
+    "displayTitle": "Вопрос 13",
+    "body": "<p>К каким клиентам Банк применяет меры по замораживанию (блокированию) денежных средств или иного имущества?</p>",
+    "_id": "5d279b48f00b07034dc3bbe6",
+    "_parentId": "5d279b3bf00b07034dc3bbe5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "шггенщш",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "щшрозщо",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Приостанавливает операцию с денежными средствами или иным имуществом (за исключением операции по списанию денежных средств, поступивших на счет клиента)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Не осуществляет никаких специальных действий, операция проводится в обычном порядке",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

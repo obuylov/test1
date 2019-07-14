@@ -1,0 +1,195 @@
+{
+    "title": "FATCA и CRS. Депозитарий/ДГР ",
+    "displayTitle": "FATCA и CRS. Депозитарий/ДГР ",
+    "body": "<p><strong><strong>Добро пожаловать!</strong></strong></p><p><!-- T004 --></p><p>Рады приветствовать Вас на курсе <strong>«Идентификация налогового резидентства клиентов в рамках исполнения требований FATCA и CRS».</strong></p><p><!-- T004 --></p><p><strong><strong><strong>В рамках изучения курса Вы ознакомитесь:</strong></strong></strong></p><p><!-- t508 --></p><ul><li>C правилами идентификации налогового резидентства клиентов при открытии счетов / заключении договоров;</li><li>C основными требованиями законодательства FATCA и CRS;</li><li>C вариантами решений сложных вопросов при идентификации налогового резидентства.</li></ul><p><!-- T004 --></p><p><strong>Курс считается пройденным, если Вы:</strong><br />Ознакомились с материалами и успешно прошли тестирование.<br /><br /><strong>Желаем успеха в изучении курса!</strong></p>",
+    "description": "",
+    "_latestTrackingId": 58,
+    "_buttons": {
+        "_submit": {
+            "buttonText": "Принять ответ",
+            "ariaLabel": "Принять ответ"
+        },
+        "_reset": {
+            "buttonText": "Скорректировать ответ",
+            "ariaLabel": "Скорректировать ответ"
+        },
+        "_showCorrectAnswer": {
+            "buttonText": "Показать правильный ответ",
+            "ariaLabel": "Показать правильный ответ"
+        },
+        "_hideCorrectAnswer": {
+            "buttonText": "Скрыть правильный ответ",
+            "ariaLabel": "Скрыть правильный ответ"
+        },
+        "_showFeedback": {
+            "buttonText": "Показать комментарий",
+            "ariaLabel": "Показать комментарий"
+        },
+        "remainingAttemptsText": "remaining attempts",
+        "remainingAttemptText": "final attempt",
+        "disabledAriaLabel": "This button is disabled at the moment"
+    },
+    "_classes": "",
+    "_lockType": "custom",
+    "_id": "course",
+    "_start": {
+        "_isEnabled": false,
+        "_startIds": [],
+        "_force": false,
+        "_isMenuDisabled": false
+    },
+    "_globals": {
+        "_accessibility": {
+            "accessibilityToggleTextOn": "Turn accessibility on?",
+            "accessibilityToggleTextOff": "Turn accessibility off?",
+            "skipNavigationText": "Skip navigation",
+            "_accessibilityInstructions": {
+                "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+                "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+                "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+            },
+            "_ariaLabels": {
+                "navigation": "Course navigation bar",
+                "skipNavigation": "Skip Navigation",
+                "menuLoaded": "Menu loaded",
+                "page": "Page",
+                "pageLoaded": "Page loaded",
+                "previous": "Back",
+                "navigationDrawer": "Open course resources and search",
+                "drawer": "Side drawer",
+                "closePopup": "Close popup",
+                "next": "Next",
+                "done": "Done",
+                "complete": "Complete",
+                "incomplete": "Incomplete",
+                "correct": "Correct",
+                "incorrect": "Incorrect",
+                "locked": "Locked",
+                "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+                "feedbackPopUp": "Popup opened",
+                "visited": "Visited",
+                "menuIndicatorHeading": "Menu item heading "
+            }
+        },
+        "_components": {
+            "_text": {
+                "ariaRegion": ""
+            },
+            "_accordion": {
+                "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+            },
+            "_mcq": {
+                "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+            },
+            "_graphic": {
+                "ariaRegion": ""
+            }
+        },
+        "_extensions": {
+            "_pageLevelProgress": {
+                "pageLevelProgress": "Page sections",
+                "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+                "pageLevelProgressMenuBar": "You have completed ",
+                "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+                "optionalContent": "Optional Content"
+            },
+            "_resources": {
+                "resources": "Additional resources."
+            },
+            "_languagePicker": {
+                "navigationBarLabel": "Select course language"
+            },
+            "_glossary": {
+                "glossary": "Glossary"
+            }
+        },
+        "_menu": {
+            "_compliance": {
+                "ariaRegion": "Menu",
+                "durationLabel": "",
+                "menuItem": "Menu item.",
+                "menuEnd": "You have reached the end of the menu."
+            }
+        }
+    },
+    "_type": "course",
+    "themeVariables": {
+        "_colors": {
+            "primary-color": "#078292",
+            "primary-color-inverted": "#ffffff",
+            "secondary-color": "#4b4e4f",
+            "secondary-color-inverted": "#ffffff",
+            "tertiary-color": "#ffffff",
+            "tertiary-color-inverted": "#4b4e4f",
+            "quaternary-color": "#37474f",
+            "quaternary-color-inverted": "#ffffff",
+            "foreground-color": "#4b4e4f",
+            "background-color": "#ffffff",
+            "foreground-color-inverted": "#ffffff",
+            "background-color-inverted": "#546e7a",
+            "validation-error": "#f26c4f",
+            "validation-success": "#82ca9c",
+            "disabled-color": "#727272",
+            "disabled-color-inverted": "#cccccc"
+        }
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_showPageCompletion": true
+    },
+    "_bookmarking": {
+        "_isEnabled": true,
+        "_level": "component",
+        "_showPrompt": true,
+        "title": "Закладки",
+        "body": "Хотите продолжить с того места, где остановились?",
+        "_buttons": {
+            "yes": "Да",
+            "no": "Нет"
+        }
+    },
+    "_close": {
+        "_isEnabled": true,
+        "_button": {
+            "_closeViaLMSFinish": false,
+            "_isEnabled": true,
+            "_notifyPromptIfIncomplete": {
+                "_isEnabled": true,
+                "title": "Закрыть курс",
+                "body": "<p>Вы еще не прошли курс. Уверены, что хотите закрыть его?</p>",
+                "confirm": "Закрыть",
+                "cancel": "Отмена"
+            },
+            "_notifyPromptIfComplete": {
+                "_isEnabled": true,
+                "title": "Закрыть курс",
+                "body": "<p>Вы уверены, что хотите закрыть курс?</p>",
+                "confirm": "Закрыть",
+                "cancel": "Отмена"
+            }
+        },
+        "browserPromptIfIncomplete": "",
+        "browserPromptIfComplete": ""
+    },
+    "_toc": {
+        "_excludeContentObjects": []
+    },
+    "_canBackground": {
+        "_isActive": true
+    },
+    "_drawerPageNavigation": {
+        "_isEnabled": true,
+        "title": "Содержание",
+        "description": ""
+    },
+    "_menuBackground": {
+        "_menuHeader": {
+            "_link": "course/ru/assets/1f79f798dba67649369f59ee7aaf0270ad347170.jpg",
+            "_applyToPage": false
+        },
+        "_backgroundLink": ""
+    },
+    "_tooltip": {
+        "_isEnabled": true
+    }
+}
