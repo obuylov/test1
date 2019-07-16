@@ -1,9 +1,9 @@
 {
-    "title": "FATCA и CRS. Депозитарий/ДГР ",
-    "displayTitle": "FATCA и CRS. Депозитарий/ДГР ",
-    "body": "<p><strong><strong>Добро пожаловать!</strong></strong></p><p><!-- T004 --></p><p>Рады приветствовать Вас на курсе <strong>«Идентификация налогового резидентства клиентов в рамках исполнения требований FATCA и CRS».</strong></p><p><!-- T004 --></p><p><strong><strong><strong>В рамках изучения курса Вы ознакомитесь:</strong></strong></strong></p><p><!-- t508 --></p><ul><li>C правилами идентификации налогового резидентства клиентов при открытии счетов / заключении договоров;</li><li>C основными требованиями законодательства FATCA и CRS;</li><li>C вариантами решений сложных вопросов при идентификации налогового резидентства.</li></ul><p><!-- T004 --></p><p><strong>Курс считается пройденным, если Вы:</strong><br />Ознакомились с материалами и успешно прошли тестирование.<br /><br /><strong>Желаем успеха в изучении курса!</strong></p>",
+    "title": "test1",
+    "displayTitle": "Тестирование по курсу «Противодействие легализации (отмыванию) доходов, полученных преступных путем, и финансированию терроризма (ПОД/ФТ)»",
+    "body": "",
     "description": "",
-    "_latestTrackingId": 58,
+    "_latestTrackingId": 61,
     "_buttons": {
         "_submit": {
             "buttonText": "Принять ответ",
@@ -33,10 +33,10 @@
     "_lockType": "custom",
     "_id": "course",
     "_start": {
-        "_isEnabled": false,
-        "_startIds": [],
-        "_force": false,
-        "_isMenuDisabled": false
+        "_isEnabled": true,
+        "_id": "5d278f97f00b07034dc3bbca",
+        "_force": true,
+        "_isMenuDisabled": true
     },
     "_globals": {
         "_accessibility": {
@@ -133,6 +133,11 @@
             "disabled-color-inverted": "#cccccc"
         }
     },
+    "_assessment": {
+        "_postTotalScoreToLms": true,
+        "_isPercentageBased": true,
+        "_scoreToPass": 90
+    },
     "_pageLevelProgress": {
         "_isEnabled": true,
         "_showPageCompletion": true
@@ -170,9 +175,6 @@
         },
         "browserPromptIfIncomplete": "",
         "browserPromptIfComplete": ""
-    },
-    "_toc": {
-        "_excludeContentObjects": []
     },
     "_canBackground": {
         "_isActive": true

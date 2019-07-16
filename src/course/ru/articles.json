@@ -1,7 +1,7 @@
 [
   {
-    "title": "New Article Title",
-    "displayTitle": "",
+    "title": "Введение",
+    "displayTitle": "Добро пожаловать!",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -10,7 +10,74 @@
     "_isHidden": false,
     "_isVisible": true,
     "_ariaLevel": 0,
-    "_id": "5d278f97f00b07034dc3bbcb",
+    "_id": "6d278f97f00b07034dc3bbcb",
+    "_parentId": "5d278f97f00b07034dc3bbca",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+  "title": "Тест",
+  "displayTitle": "",
+  "body": "",
+  "_classes": "",
+  "instruction": "",
+  "_isOptional": false,
+  "_isAvailable": true,
+  "_isHidden": false,
+  "_isVisible": true,
+  "_ariaLevel": 0,
+  "_id": "5d278f97f00b07034dc3bbcb",
+  "_parentId": "5d278f97f00b07034dc3bbca",
+  "_type": "article",
+  "_onScreen": {
+    "_isEnabled": false,
+    "_classes": "",
+    "_percentInviewVertical": 50
+  },
+  "_assessment": {
+    "_isEnabled": true,
+    "_id": "test1",
+    "_attempts": -1,
+    "_isPercentageBased": true,
+    "_scoreToPass": 90,
+    "_includeInTotalScore": true,
+    "_assessmentWeight": 1,
+    "_suppressMarking": true,
+    "_isResetOnRevisit": false,
+    "_allowResetIfPassed": false,
+    "_randomisation": {
+      "_isEnabled": false,
+      "_blockCount": -1
+    },
+    "_banks": {
+      "_isEnabled": true,
+      "_split": "",
+      "_randomisation": true
+    },
+    "_questions": {
+      "_resetType": "hard",
+      "_canShowFeedback": false,
+      "_canShowMarking": true,
+      "_canShowModelAnswer": false
+    }
+  }
+},
+  {
+    "title": "Подвал",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "9d278f97f00b07034dc3bbcb",
     "_parentId": "5d278f97f00b07034dc3bbca",
     "_type": "article",
     "_onScreen": {

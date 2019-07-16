@@ -1,18 +1,16 @@
 [
   {
-    "_component": "mcq",
+    "_component": "text",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Вопрос 2",
-    "displayTitle": "Вопрос 2",
-    "body": "<p>Положениям каких документов следует Банк в вопросах противодействия легализации (отмыванию) денежных средств, полученных преступным путем, и финансированию терроризма?</p>",
-    "_id": "5d27910af00b07034dc3bbd0",
-    "_parentId": "5d2790fdf00b07034dc3bbcf",
+    "title": "Введение",
+    "displayTitle": "",
+    "body": "<p>Вам назначена первичная проверка знаний в результате прохождения курса \"Противодействие легализации (отмыванию) доходов, полученных преступных путем, и финансированию терроризма (ПОД/ФТ)\".</p><p><strong>Внимание! Тест необходимо пройти не ранее, чем через месяц с даты приема на работу. Прохождение теста ранее установленного срока является нарушением!</strong></p></br><p><table width=\"100%\" cellspacing=\"0\" cellpadding=\"5\"><tbody><tr><td id=\"col1\"><p>Формат проверки знаний: тест</p></td><td id=\"col2\"><p>Количество вопросов: 13</p></td><td id=\"col3\"><p>Проходной балл: 90%</p></td></tr></tbody></table></p></br><p>Желаем успехов!</p>",
+    "_id": "c-01",
+    "_parentId": "b-01",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -20,70 +18,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": " Выберите все правильные варианты ответов",
-    "_items": [
-      {
-        "text": "Нормативных документов Банка России",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Законодательных документов РФ",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Внутренних документов Банка",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 3,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
+    "_pageLevelProgress": {
+      "_isEnabled": true
     },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "Ответить",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
+    "instruction": ""
   },
+
   {
     "_component": "mcq",
     "_classes": "",
@@ -167,6 +107,97 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 2",
+    "displayTitle": "Вопрос 2",
+    "body": "<p>Положениям каких документов следует Банк в вопросах противодействия легализации (отмыванию) денежных средств, полученных преступным путем, и финансированию терроризма?</p>",
+    "_id": "5d27910af00b07034dc3bbd0",
+    "_parentId": "5d2790fdf00b07034dc3bbcf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": " Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "Нормативных документов Банка России",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Законодательных документов РФ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Внутренних документов Банка",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -252,6 +283,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -357,6 +391,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -442,6 +479,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -537,6 +577,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -622,6 +665,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -707,6 +753,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -792,6 +841,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -882,6 +934,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -977,6 +1032,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -1062,6 +1120,9 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -1152,6 +1213,157 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_id": "assessment1",
+    "_parentId": "5d279b3bf00b07034dc3bbe6",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_resetType": "inherit",
+    "title": "Тест",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "pass",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_assessmentId": "test1",
+    "_retry": {
+      "button": "Пройти заново",
+      "feedback": "<p>Вами были допущены ошибки при прохождении тестирования. Изучите повторно темы, затрагиваемые в тестировании, и проверьте свои знания еще раз.</p>",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "<p>Ваш результат: {{scoreAsPercent}}% из 100%.</p>{{{feedback}}}",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<p>К сожалению, Вы не справились.</p>",
+        "_allowRetry": true
+      },
+      {
+        "_score": 100,
+        "feedback": "<p>Отлично!</p>",
+        "_allowRetry": false,
+        "_classes": "high-score"
+      }
+    ]
+  },
+  {
+    "_component": "bottomNavigation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5cf9ec9bb7b6931869d76617",
+    "_parentId": "7d279b3bf00b07034dc3bbe6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "< Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Go to main menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Next >",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": true,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Закрыть курс",
+        "ariaLabel": "Завершить обучение",
+        "_showTooltip": false,
+        "tooltip": "Close window",
+        "_customRouteId": ""
+      }
     }
   }
 ]

@@ -36,10 +36,10 @@
     "_isEnabled": true,
     "_tracking": {
       "_requireCourseCompleted": true,
-      "_requireAssessmentPassed": false,
-      "_shouldSubmitScore": false,
-      "_shouldStoreResponses": false,
-      "_shouldRecordInteractions": false
+      "_requireAssessmentPassed": true,
+      "_shouldSubmitScore": true,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": true
     },
     "_reporting": {
       "_onTrackingCriteriaMet": "completed",
@@ -57,7 +57,7 @@
     }
   },
   "_devtools": {
-    "_isEnabled": false,
+    "_isEnabled": true,
     "_theme": "theme-dark"
   },
   "_altxapi": {
