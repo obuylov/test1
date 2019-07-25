@@ -57,7 +57,7 @@
     }
   },
   "_devtools": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_theme": "theme-dark"
   },
   "_altxapi": {
