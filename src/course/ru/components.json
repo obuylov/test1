@@ -1265,7 +1265,7 @@
       },
       {
         "_score": 100,
-        "feedback": "<p>Отлично!</p>",
+        "feedback": "<p>Вы успешно справились с тестированием!</p><p>Желаем успехов в работе!</p>",
         "_allowRetry": false,
         "_classes": "high-score"
       }
@@ -1373,8 +1373,8 @@
         "_classes": "",
         "_iconClass": "",
         "_alignIconRight": false,
-        "text": "Закрыть курс",
-        "ariaLabel": "Завершить обучение",
+        "text": "Завершить тестирование",
+        "ariaLabel": "Завершить тестирование",
         "_showTooltip": false,
         "tooltip": "Close window",
         "_customRouteId": ""
