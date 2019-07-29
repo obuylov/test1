@@ -8,7 +8,7 @@
     "_isVisible": true,
     "title": "Введение",
     "displayTitle": "",
-    "body": "<p>Вам назначена <strong>первичная проверка знаний</strong> в результате прохождения курса &laquo;Противодействие легализации (отмыванию) доходов, полученных преступных путем, и финансированию терроризма (ПОД/ФТ)&raquo;.&nbsp;</p> <p><strong>Внимание! Тест необходимо пройти не ранее, чем через месяц с даты приема на работу. Прохождение теста ранее установленного срока является нарушением!</strong></p></br><p><div class='three-blocks'> <div class=\"p-with-img\"> <img src=\"course/ru/assets/icon1.png\" width=\"45\" height=\"45\"> <p>Формат проверки знаний: тест</p> </div> <div class=\"p-with-img\"> <img src=\"course/ru/assets/icon2.png\" width=\"45\" height=\"45\"> <p>Количество вопросов: 13</p> </div> <div class=\"p-with-img\"> <img src=\"course/ru/assets/icon3.png\" width=\"45\" height=\"45\"> <p>Проходной балл: 90%</p> </div> </div></p></br><p>Желаем успехов!</p>",
+    "body": "<p>Вам назначена <strong>первичная проверка знаний</strong> в результате прохождения курса &laquo;Противодействие легализации (отмыванию) доходов, полученных преступных путем, и финансированию терроризма (ПОД/ФТ)&raquo;.&nbsp;</p> <p><strong>Внимание! Тест необходимо пройти не ранее, чем через месяц с даты приема на работу. Прохождение теста ранее установленного срока является нарушением!</strong></p></br><p><div class='three-blocks'> <div class=\"p-with-img\"> <img src=\"course/ru/assets/icon1.png\" width=\"45\" height=\"45\"> <p>Формат проверки знаний: тест</p> </div> <div class=\"p-with-img\"> <img src=\"course/ru/assets/icon2.png\" width=\"45\" height=\"45\"> <p>Количество вопросов: 15</p> </div> <div class=\"p-with-img\"> <img src=\"course/ru/assets/icon3.png\" width=\"45\" height=\"45\"> <p>Проходной балл: 90%</p> </div> </div></p></br><p>Желаем успехов!</p>",
     "_id": "c-01",
     "_parentId": "b-01",
     "_type": "component",
@@ -23,7 +23,6 @@
     },
     "instruction": ""
   },
-
   {
     "_component": "mcq",
     "_classes": "",
@@ -236,6 +235,11 @@
       {
         "text": "Административная и дисциплинарная ответственность",
         "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Меры ответственности не предусмотрены",
+        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -493,104 +497,6 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Вопрос 7",
-    "displayTitle": "Вопрос 7",
-    "body": "<p>Кто из перечисленных лиц, в соответствии с Законом 115-ФЗ, подлежит идентификации?&nbsp;</p>",
-    "_id": "5d2794fcf00b07034dc3bbda",
-    "_parentId": "5d2794edf00b07034dc3bbd9",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": "Выберите все правильные варианты ответов",
-    "_items": [
-      {
-        "text": "Клиент",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Контрагент ",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Бенефициарный владелец ",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Представитель ",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Выгодоприобретатель",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 5,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "Ответить",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "title": "Вопрос 6",
     "displayTitle": "Вопрос 6",
     "body": "<p>Идентификация – это:</p>",
@@ -679,8 +585,8 @@
     "_isVisible": true,
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Вопрос 8",
-    "displayTitle": "Вопрос 8",
+    "title": "Вопрос 7",
+    "displayTitle": "Вопрос 7",
     "body": "<p>Банк проводит процедуру идентификации клиента:</p>",
     "_id": "5d279612f00b07034dc3bbdc",
     "_parentId": "5d279603f00b07034dc3bbdb",
@@ -718,6 +624,104 @@
     "_recordInteraction": true,
     "_questionWeight": 1,
     "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 8",
+    "displayTitle": "Вопрос 8",
+    "body": "<p>Кто из перечисленных лиц, в соответствии с Законом 115-ФЗ, подлежит идентификации?&nbsp;</p>",
+    "_id": "5d2794fcf00b07034dc3bbda",
+    "_parentId": "5d2794edf00b07034dc3bbd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "Клиент",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Контрагент ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Бенефициарный владелец ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Представитель ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Выгодоприобретатель",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -885,7 +889,7 @@
         "feedback": ""
       },
       {
-        "text": "Операции не имеют явного экономического смысла",
+        "text": "Операции клиента не имеют явного экономического смысла",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -999,7 +1003,7 @@
       },
       {
         "text": "Все перечисленные случаи имеют признаки вывода капитала посредством совершения сделок на финансовых рынках",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       }
     ],
@@ -1175,7 +1179,7 @@
       },
       {
         "text": "Клиент имеет несколько расчетных счетов в иных кредитных организациях",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "feedback": ""
       },
       {
@@ -1192,7 +1196,7 @@
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 4,
+    "_selectable": -1,
     "_feedback": {
       "title": "",
       "correct": "",
@@ -1233,6 +1237,190 @@
       "_isEnabled": true
     }
   },
+
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 14",
+    "displayTitle": "Вопрос 14",
+    "body": "<p>По основаниям Закона 115-ФЗ Банк вправе отказать клиенту:</p>",
+    "_id": "9d279b48f00b07034dc3bbe6",
+    "_parentId": "6d279b3bf00b07034dc3bbe9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Выберите все правильные варианты ответов",
+    "_items": [
+      {
+        "text": "В заключении договора банковского счета (вклада)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "В проведении операции по списанию/выдаче денежных средств со счета клиента",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "В проведении операции по зачислению денежных средств на счет клиента",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "В предоставлении клиентом документов в целях пересмотра оснований по ранее принятому Банком решению об отказе",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": -1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Вопрос 15",
+    "displayTitle": "Вопрос 15",
+    "body": "<p>Что представляет собой право на \"реабилитацию\" клиента?</p>",
+    "_id": "1d27995ef00b09034dc3bbe4",
+    "_parentId": "7d279b3bf00b07034dc3bbe9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Возможен один вариант ответа",
+    "_items": [
+      {
+        "text": "Клиент может представить в Банк документы и (или) сведения в целях пересмотра оснований по ранее принятому Банком решению об отказе, а в случае невозможности устранения оснований, обратиться в межведомственную комиссию, созданную при Банке России",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Клиент может обратиться с заявлением и документами и (или) сведениями в Росфинмониторинг для пересмотра ранее принятого решения Банка об отказе",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Клиент может обратиться с заявлением и документами и (или) сведениями в суд для пересмотра ранее принятого решения Банка об отказе",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Ответить",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+
+
   {
     "_component": "assessmentResults",
     "_id": "assessment1",

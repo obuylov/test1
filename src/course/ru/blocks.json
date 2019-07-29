@@ -264,7 +264,7 @@
         }
     },
     {
-        "title": "Block title",
+        "title": "6 вопрос",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -308,51 +308,7 @@
         }
     },
     {
-        "title": "Block title",
-        "displayTitle": "",
-        "body": "",
-        "_classes": "",
-        "_trackingId": 7,
-        "instruction": "",
-        "_isOptional": false,
-        "_isAvailable": true,
-        "_isHidden": false,
-        "_isVisible": true,
-        "_ariaLevel": 0,
-        "_id": "5d2794edf00b07034dc3bbd9",
-        "_parentId": "5d278f97f00b07034dc3bbcb",
-        "_type": "block",
-        "_onScreen": {
-            "_isEnabled": false,
-            "_classes": "",
-            "_percentInviewVertical": 50
-        },
-        "_trickle": {
-            "_isEnabled": true,
-            "_autoScroll": true,
-            "_scrollDuration": 500,
-            "_scrollTo": "@block +1",
-            "_button": {
-                "_isEnabled": false,
-                "_styleBeforeCompletion": "hidden",
-                "_styleAfterClick": "hidden",
-                "_isFullWidth": false,
-                "_autoHide": true,
-                "_className": "",
-                "text": "Continue",
-                "startText": "Begin",
-                "finalText": "Finish",
-                "_component": "trickle-button"
-            },
-            "_stepLocking": {
-                "_isEnabled": true,
-                "_isCompletionRequired": true,
-                "_isLockedOnRevisit": false
-            }
-        }
-    },
-    {
-        "title": "Block title",
+        "title": "7 вопрос",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -396,7 +352,51 @@
         }
     },
     {
-        "title": "Block title",
+        "title": "8 вопрос",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 7,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_ariaLevel": 0,
+        "_id": "5d2794edf00b07034dc3bbd9",
+        "_parentId": "5d278f97f00b07034dc3bbcb",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Continue",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "9 вопрос",
         "displayTitle": "",
         "body": "",
         "_classes": "",
@@ -584,6 +584,94 @@
         "_isVisible": true,
         "_ariaLevel": 0,
         "_id": "5d279b3bf00b07034dc3bbe5",
+        "_parentId": "5d278f97f00b07034dc3bbcb",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Continue",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Block title",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 62,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_ariaLevel": 0,
+        "_id": "6d279b3bf00b07034dc3bbe9",
+        "_parentId": "5d278f97f00b07034dc3bbcb",
+        "_type": "block",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_trickle": {
+            "_isEnabled": true,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden",
+                "_styleAfterClick": "hidden",
+                "_isFullWidth": false,
+                "_autoHide": true,
+                "_className": "",
+                "text": "Continue",
+                "startText": "Begin",
+                "finalText": "Finish",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "title": "Block title",
+        "displayTitle": "",
+        "body": "",
+        "_classes": "",
+        "_trackingId": 63,
+        "instruction": "",
+        "_isOptional": false,
+        "_isAvailable": true,
+        "_isHidden": false,
+        "_isVisible": true,
+        "_ariaLevel": 0,
+        "_id": "7d279b3bf00b07034dc3bbe9",
         "_parentId": "5d278f97f00b07034dc3bbcb",
         "_type": "block",
         "_onScreen": {
